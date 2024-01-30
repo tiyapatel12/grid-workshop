@@ -20,7 +20,7 @@ function setup() {
     const canvasSize = squareSize * cellNumber;
     //maximum offset
     const maxOffsetPosition = 5;
-    const maxOffsetSize = 10;
+    const maxOffsetSize = 30;
 
     // noStroke(0);
     createCanvas(canvasSize, canvasSize);
